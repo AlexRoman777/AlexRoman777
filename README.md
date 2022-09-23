@@ -2,7 +2,7 @@
 # Welcome to my GitHub repository
 
 ## About me
-- 👋 Hi, I’m Alex Roman.
-- 👀 I have a great passion for automating mundane tasks.
-- 📫 You can get in touch with me via issues and pull requests here on GitHub...
+- 👋 Hi, it's me!
+- 👀 I have a great passion, or two.
+- 📫 You can't get in touch with me. I'm not ready yet. I'll contact you...
   
