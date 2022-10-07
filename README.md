@@ -3,6 +3,4 @@
 #
 #
 #
-#
-#
 ## Table of Contents
