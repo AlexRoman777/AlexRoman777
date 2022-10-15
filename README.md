@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 # Welcome
 
 <center>
@@ -22,9 +20,3 @@
 </table>
 </center>
 
-=======
-# Welcome to my GitHub repository
-#
-#
-## Table of Contents
->>>>>>> 5e22c693323fc63c8cb8b349b052a93bb8bfbee4
