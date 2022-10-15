@@ -1,7 +1,6 @@
 <h1 alingn = "center">Welcome</h1>
 
-
-<h2> Played with </h2>
+<h3> Played with </h3>
 <p align = "left">
 <img src="img/logo/kali.png" height="50">
 <img src="img/logo/java.png" height="50">
@@ -14,8 +13,7 @@
 </p>
 
 
-
-<h2> Learning</h2>
+<h3> Learning</h3>
 <p align = "left">
 <img src="img/logo/git.png" height="50">
 <img src="img/logo/python.png" height="50">
@@ -26,8 +24,7 @@
 </p>
 
 
-
-<h2> Want to learn</h2>
+<h3> Want to learn</h3>
 <p align = "left">
 <img src="img/logo/jenkins.png" height="50">
 <img src="img/logo/ansible.png" height="50">
@@ -38,7 +35,7 @@
 </p>
 
 
-<h2> A long time ago</h2>
+<h3> A long time ago</h3>
 <p align = "left">
 <img src="img/logo/qbasic.png" height="50">
 <img src="img/logo/msdos.png" height="50">
@@ -48,8 +45,7 @@
 </p>
 
 
-
-<h2> Hobbies</h2>
+<h3> Hobbies</h3>
 <p align = "left">
 <img src="img/logo/home.png" height="50">
 <img src="img/logo/dietpi.png" height="50">
