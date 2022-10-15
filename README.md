@@ -29,11 +29,11 @@
 
 <h2> Want to learn</h2>
 <p align = "left">
+<img src="img/logo/jenkins.png" height="70">
 <img src="img/logo/ansible.png" height="70">
 <img src="img/logo/terraform.png" height="70">
 <img src="img/logo/aws.png" height="70">
 <img src="img/logo/kubernetes.png" height="70">
-<img src="img/logo/jenkins.png" height="70">
 <img src="img/logo/actions.png" height="70">
 </p>
 
