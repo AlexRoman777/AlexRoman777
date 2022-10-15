@@ -38,7 +38,7 @@
 </p>
 
 
-<h2> History</h2>
+<h2> A long time ago</h2>
 <p align = "left">
 <img src="img/logo/qbasic.png" height="70">
 <img src="img/logo/msdos.png" height="70">
