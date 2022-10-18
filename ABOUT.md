@@ -53,4 +53,4 @@
 <img src="img/logo/raspberry.png" height="50">
 </p>
 
-[Go Back](README.md)
+[Go Back](/README.md)
