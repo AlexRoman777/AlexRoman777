@@ -6,4 +6,4 @@
 #
 
 
-[About me](about.md)
+[About me](wiki/about.md)
