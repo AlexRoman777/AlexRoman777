@@ -52,5 +52,3 @@
 <img src="img/logo/sony.png" height="50">
 <img src="img/logo/raspberry.png" height="50">
 </p>
-
-[Go Back](README.md)
