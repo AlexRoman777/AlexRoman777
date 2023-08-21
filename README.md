@@ -25,9 +25,6 @@ runs-on: ["Coffee ☕️", "Pizza 🍕"]
 
 <summary>Stats  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/iso.svg" alt="ISO" width=2% /></summary>
 
-<p align="center">
-  <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/iso.svg" alt="ISO" />
-
 <!-- <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/base.svg" alt="Base" />
 </p> -->
