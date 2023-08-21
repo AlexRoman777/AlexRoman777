@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/banner07.png">
+<!-- <img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/banner07.png"> -->
 
 <img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/banner08.svg">
 
@@ -26,6 +26,9 @@ runs-on: ["Coffee ☕️", "Pizza 🍕"]
 <summary>Stats  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/iso.svg" alt="ISO" width=2% /></summary>
 
 <p align="center">
+  <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/iso.svg" alt="ISO" />
+
+<!-- <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/base.svg" alt="Base" />
 </p>
 
@@ -43,7 +46,7 @@ runs-on: ["Coffee ☕️", "Pizza 🍕"]
 
 <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/isocalendar.svg" alt="Iso Calendar" />
-</p>
+</p> -->
 
 </details>
 
