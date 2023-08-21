@@ -1,4 +1,4 @@
-<!-- <img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/banner07.png"> -->
+<img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/banner07.png">
 
 <img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/banner08.svg">
 
@@ -30,21 +30,21 @@ runs-on: ["Coffee ☕️", "Pizza 🍕"]
 
 <!-- <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/base.svg" alt="Base" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/facts.svg" alt="Facts" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/habits.svg" alt="Habits" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/languages.svg" alt="Most Used Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/others/isocalendar.svg" alt="Iso Calendar" />
 </p> -->
 
