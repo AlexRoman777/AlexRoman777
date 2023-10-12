@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/iso/isoview.svg" width=80% alt="Iso View" />
+<img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/iso/isoview.svg" width=50% alt="Iso View" />
 
 </p>
 
