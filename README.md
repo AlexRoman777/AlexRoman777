@@ -1,9 +1,6 @@
 <!-- Header -->
 <img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/rain.svg" alt="Header" />
 
-<!-- Footer -->
-<img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/footer.svg" alt="Footer" />
-
 <details>
 
 <summary>About me  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/alex.png" alt="ME" width=2% /></summary>
@@ -34,6 +31,9 @@ runs-on:
 <summary>Stats  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/iso.svg" alt="ISO" width=2% /></summary>
 
 <p align="center">
-  <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/iso.svg" alt="ISO" />
+  <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/metrics/metrics.svg" alt="Metrics" />
 
 </details>
+
+<!-- Footer -->
+<img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/footer.svg" alt="Footer" />
