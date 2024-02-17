@@ -15,8 +15,6 @@ jobs:
     duration: 2023 - Present
 
 runs-on:
-  - Coffee ☕️
-  - Keto Diet 🥩
   - Linux 🐧
   - Kubernetes 🚢
   - Terraform 🏗️
