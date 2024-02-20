@@ -39,8 +39,7 @@ runs-on:
 <p align="center">
   <samp>
     <a href="https://alexroman.se">me</a> .
-    <a href="https://alexroman.se/projects">projects</a> .
     <a href="https://devops22.se">22</a> .
-    <a href="https://devops23.se">23</a> .
+    <a href="https://devops23.se">23</a>
   </samp>
 </p>
