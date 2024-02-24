@@ -8,7 +8,7 @@
 ```yaml
 name: Alex Roman
 education: DevOps Engineer @ Nackademin 🎓
-located_in: Stockholm, Sweden 🇸🇪
+located_in: Stockholm, Sweden
 jobs:
   Site Reliability Engineer:
     company: Extenda Retail
