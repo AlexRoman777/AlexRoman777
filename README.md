@@ -6,16 +6,18 @@
 <summary>About me  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/alex.png" alt="ME" width=2% /></summary>
 
 ```yaml
+---
+🔴 ⚫️ 🟢
 name: Alex Roman
 education: DevOps Engineer @ Nackademin 🎓
-located_in: Stockholm, Sweden
+located_in: Stockholm, Sweden 🇸🇪
 jobs:
   Site Reliability Engineer:
-    company: Extenda Retail
-    duration: 2023 - Present
+    company: Extenda Retail 🛒
+    duration: 2023 - Present 📅
 
-superpowers:
-  - Kubernetes: ⎈
+skills:
+  - Kubernetes: 🚢
   - Terraform: 🏗️
   - Python: 🐍
   - Bash: 🐚
@@ -25,6 +27,7 @@ superpowers:
   - Jenkins: 🚀
   - Prometheus: 📈
   - Grafana: 📊
+  - Ansible: 🛠 ️
 ```
 
 </details>
