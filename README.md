@@ -14,12 +14,11 @@ jobs:
     company: Extenda Retail
     duration: 2023 - Present
 
-runs-on:
-  - Linux 🐧
-  - Kubernetes 🚢
-  - Terraform 🏗️
-  - Python 🐍
-  - Bash 🐚
+superpowers:
+  - Kubernetes: "Navigating the clouds with Kubernetes at the helm, ensuring smooth sailing."
+  - Terraform: "Molding cloud landscapes with Terraform's mighty infrastructure-as-code."
+  - Python: "Harnessing Python's versatility to automate tasks and conquer challenges."
+  - Bash: "Commanding the shell like a wizard to bend systems to my will."
 ```
 
 </details>
