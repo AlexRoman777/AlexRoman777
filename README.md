@@ -14,6 +14,6 @@
 <p align="center">
   <samp>
     <a href="https://devops23.se/no">me</a> .
-    <a href="https://devops23.se">23</a> .
+    <a href="https://devops23.se">23</a>
   </samp>
 </p>
