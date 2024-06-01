@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1000 200" width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1280 200" width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -43,6 +43,54 @@
 					-webkit-text-fill-color: transparent;
 					-webkit-animation: gradientText 3s ease infinite;
 					animation: gradientText 3s ease infinite;
+				}
+
+				h2 {
+					font-family: 'Inter',
+						-apple-system,
+						BlinkMacSystemFont,
+						'Segoe UI',
+						'Roboto',
+						'Oxygen',
+						'Ubuntu',
+						'Cantarell',
+						'Fira Sans',
+						'Droid Sans',
+						'Helvetica Neue',
+						sans-serif;
+					margin: 0;
+					font-size: 2em;
+					font-weight: 600;
+					letter-spacing: -.05em;
+					text-align: center;
+				}
+
+				h2::after {
+					content: ' 👋🏼';
+					display: inline-block;
+					font-size: 1.2em;
+					animation: wave 3s infinite;
+				}
+
+				@keyframes wave {
+					0%, 100% {
+						transform: rotate(30deg);
+					}
+					10%, 90% {
+						transform: rotate(20deg);
+					}
+					20%, 80% {
+						transform: rotate(10deg);
+					}
+					30%, 70% {
+						transform: rotate(20deg);
+					}
+					40%, 60% {
+						transform: rotate(30deg);
+					}
+					50% {
+						transform: rotate(40deg);
+					}
 				}
 
 				@-webkit-keyframes snowflakes-fall {
@@ -128,61 +176,121 @@
 				}
 
 				.snowflake:nth-of-type(1) {
-					left: 10%;
-					-webkit-animation-delay: 1s, 1s;
-					animation-delay: 1s, 1s
+					left: 12%;
+					-webkit-animation-delay: 3s, 1.5s;
+					animation-delay: 3s, 1.5s
 				}
 
 				.snowflake:nth-of-type(2) {
-					left: 20%;
-					-webkit-animation-delay: 5s, .5s;
-					animation-delay: 5s, .5s
+					left: 23%;
+					-webkit-animation-delay: 5s, 2.5s;
+					animation-delay: 5s, 2.5s
 				}
 
 				.snowflake:nth-of-type(3) {
-					left: 30%;
-					-webkit-animation-delay: 4s, 2s;
-					animation-delay: 4s, 2s
-				}
-
-				.snowflake:nth-of-type(4) {
-					left: 40%;
+					left: 34%;
 					-webkit-animation-delay: 2s, 1s;
 					animation-delay: 2s, 1s
 				}
 
+				.snowflake:nth-of-type(4) {
+					left: 47%;
+					-webkit-animation-delay: 6s, 4s;
+					animation-delay: 6s, 4s
+				}
+
 				.snowflake:nth-of-type(5) {
-					left: 50%;
-					-webkit-animation-delay: 7s, 3s;
-					animation-delay: 7s, 3s
+					left: 56%;
+					-webkit-animation-delay: 4s, 2s;
+					animation-delay: 4s, 2s
 				}
 
 				.snowflake:nth-of-type(6) {
-					left: 60%;
-					-webkit-animation-delay: 6s, 2s;
-					animation-delay: 6s, 2s
+					left: 67%;
+					-webkit-animation-delay: 7s, 3.5s;
+					animation-delay: 7s, 3.5s
 				}
 
 				.snowflake:nth-of-type(7) {
-					left: 70%;
-					-webkit-animation-delay: 2.5s, 1s;
-					animation-delay: 2.5s, 1s
+					left: 78%;
+					-webkit-animation-delay: 1s, 0.5s;
+					animation-delay: 1s, 0.5s
 				}
 
 				.snowflake:nth-of-type(8) {
-					left: 80%;
-					-webkit-animation-delay: 1s, 0s;
-					animation-delay: 1s, 0s
+					left: 89%;
+					-webkit-animation-delay: 8s, 4s;
+					animation-delay: 8s, 4s
 				}
 
 				.snowflake:nth-of-type(9) {
-					left: 90%;
+					left: 5%;
+					-webkit-animation-delay: 2s, 1s;
+					animation-delay: 2s, 1s
+				}
+
+				.snowflake:nth-of-type(10) {
+					left: 16%;
+					-webkit-animation-delay: 9s, 4.5s;
+					animation-delay: 9s, 4.5s
+				}
+
+				.snowflake:nth-of-type(11) {
+					left: 27%;
 					-webkit-animation-delay: 3s, 1.5s;
 					animation-delay: 3s, 1.5s
 				}
+
+				.snowflake:nth-of-type(12) {
+					left: 33%;
+					-webkit-animation-delay: 11s, 5s;
+					animation-delay: 11s, 5s
+				}
+
+				.snowflake:nth-of-type(13) {
+					left: 51%;
+					-webkit-animation-delay: 5s, 4s;
+					animation-delay: 5s, 4s
+				}
+
+				.snowflake:nth-of-type(14) {
+					left: 60%;
+					-webkit-animation-delay: 5s, 2.5s;
+					animation-delay: 5s, 2.5s
+				}
+
+				.snowflake:nth-of-type(15) {
+					left: 71%;
+					-webkit-animation-delay: 6s, 3s;
+					animation-delay: 6s, 3s
+				}
+
+				.snowflake:nth-of-type(16) {
+					left: 82%;
+					-webkit-animation-delay: 7s, 3.5s;
+					animation-delay: 7s, 3.5s
+				}
+
+				.snowflake:nth-of-type(17) {
+					left: 93%;
+					-webkit-animation-delay: 8s, 4s;
+					animation-delay: 8s, 4s
+				}
+
+				.snowflake:nth-of-type(18) {
+					left: 4%;
+					-webkit-animation-delay: 9s, 4.5s;
+					animation-delay: 9s, 4.5s
+				}
+
+				.snowflake:nth-of-type(19) {
+					left: 15%;
+					-webkit-animation-delay: 10s, 5s;
+					animation-delay: 10s, 5s
+				}
 			</style>
 
-			<h1>Hello there!</h1>
+			<h1>Welcome to my GitHub profile!</h1>
 
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Hi</div> <!-- English -->
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Salut</div> <!-- French -->
@@ -193,6 +301,13 @@
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">こんにちは</div> <!-- Japanese -->
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Hola</div> <!-- Spanish -->
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">你好</div> <!-- Chinese -->
+			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">नमस्ते</div> <!-- Hindi -->
+			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">నమస్కారం</div> <!-- Telugu -->
+			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">01001000 01101001</div> <!-- Binary -->
+			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">H3ll0</div> <!-- Leet Speak -->
+			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Hello, World!</div> <!-- Classic programming -->
+			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Merhaba</div> <!-- Turkish -->
+			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">مرحبا</div> <!-- Arabic -->
 
 		</div>
 	</foreignObject>
