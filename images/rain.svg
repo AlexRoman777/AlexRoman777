@@ -290,8 +290,6 @@
 				}
 			</style>
 
-			<h1>Welcome!</h1>
-
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Hi</div> <!-- English -->
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Salut</div> <!-- French -->
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">Hej</div> <!-- Swedish -->
