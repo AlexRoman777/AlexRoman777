@@ -57,7 +57,7 @@
 				}
 
 				.snowflake {
-					color: #FFF;
+					color: #ff6347;
 					font-size: 2em;
 					font-family: Arial;
 					text-shadow: 0 0 10px #000;
@@ -94,6 +94,7 @@
 				}
 
 				.snowflake:nth-of-type(3) {
+					color: #1e90ff;
 					left: 78%;
 					-webkit-animation-delay: 4.2s, 2.2s;
 					animation-delay: 4.2s, 2.2s;
@@ -106,6 +107,7 @@
 				}
 
 				.snowflake:nth-of-type(5) {
+					color: #47ffbf;
 					left: 56%;
 					-webkit-animation-delay: 1s, 0.5s;
 					animation-delay: 1s, 0.5s;
@@ -118,6 +120,7 @@
 				}
 
 				.snowflake:nth-of-type(7) {
+					color: #1e90ff;
 					left: 34%;
 					-webkit-animation-delay: 8s, 4s;
 					animation-delay: 8s, 4s;
@@ -136,6 +139,7 @@
 				}
 
 				.snowflake:nth-of-type(10) {
+					color: #47ffbf;
 					left: 93%;
 					-webkit-animation-delay: 3s, 1.5s;
 					animation-delay: 3s, 1.5s;
@@ -154,6 +158,7 @@
 				}
 
 				.snowflake:nth-of-type(13) {
+					color: #1e90ff;
 					left: 71%;
 					-webkit-animation-delay: 6s, 4s;
 					animation-delay: 6s, 4s;
@@ -166,6 +171,7 @@
 				}
 
 				.snowflake:nth-of-type(15) {
+					color: #47ffbf;
 					left: 15%;
 					-webkit-animation-delay: 2s, 1s;
 					animation-delay: 2s, 1s;
@@ -184,6 +190,7 @@
 				}
 
 				.snowflake:nth-of-type(18) {
+					color: #1e90ff;
 					left: 33%;
 					-webkit-animation-delay: 8s, 4s;
 					animation-delay: 8s, 4s;
@@ -196,6 +203,7 @@
 				}
 
 				.snowflake:nth-of-type(20) {
+					color: #47ffbf;
 					left: 1%;
 					-webkit-animation-delay: 7s, 3.5s;
 					animation-delay: 7s, 3.5s;
