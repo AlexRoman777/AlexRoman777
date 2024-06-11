@@ -88,9 +88,10 @@
 				}
 
 				.snowflake:nth-of-type(2) {
+					color: #47ffbf;
 					left: 23%;
-					-webkit-animation-delay: 5s, 5.5s;
-					animation-delay: 5s, 5.5s;
+					-webkit-animation-delay: 4s, 5.5s;
+					animation-delay: 4s, 5.5s;
 				}
 
 				.snowflake:nth-of-type(3) {
