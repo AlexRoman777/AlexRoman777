@@ -3,7 +3,7 @@
 
 <!-- Body -->
 <details>
-<summary><a href="https://devops23.se/wip.html"><img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/alex.png" alt="logo" width=2% />  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/iso/isoview.svg" alt="ISOicon" width=2% /></summary>
+<summary><a href="https://devops23.se/wip.html"><img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/alex.png" alt="logo" width=3% />  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/iso/isoview.svg" alt="ISOicon" width=3% /></summary>
 
 <p align="center">
   <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/iso/isoview.svg" alt="ISOview" width=90% />
