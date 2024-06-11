@@ -1,19 +1,4 @@
-<!-- Header -->
-<img align="center" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/rain.svg" alt="Header" />
-
-<!-- Body -->
-<details>
-<summary><a href="https://devops23.se/wip.html"><img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/alex.png" alt="logo" width=3% />  <img align="right" src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/iso/isoview.svg" alt="ISOicon" width=3% /></summary>
-
-<p align="center">
-  <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/iso/isoview.svg" alt="ISOview" width=90% />
-</p>
-</details>
-
-<!-- Footer -->
-<p align="center">
-  <samp>
-    <a href="https://devops23.se/wip.html">me</a> .
-    <a href="https://devops23.se">23</a>
-  </samp>
-</p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+    <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/rain.svg" alt="Rain" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+    <img src="https://github.com/AlexRoman777/AlexRoman777/blob/stats/images/banner.png" alt="Banner" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
